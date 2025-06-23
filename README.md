@@ -7,7 +7,10 @@ This task focuses on scanning a local network using Nmap to identify active devi
 To discover open ports in my local network using Nmap and understand basic network exposure.
 
 ## Tools Used:
-- Nmap (TCP SYN Scan)
+- Nmap (TCP SYN Scan) / ## Tools Used
+
+- [Nmap - Kali Linux Tools](https://www.kali.org/tools/nmap/) – Used for scanning the local network and discovering open ports.
+
 - Command Prompt (Windows)
 
 ## My IP Range:
